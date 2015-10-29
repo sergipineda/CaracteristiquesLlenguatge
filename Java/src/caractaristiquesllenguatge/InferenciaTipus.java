@@ -15,7 +15,7 @@ public class InferenciaTipus {
 int a =3 ;
 String ArrayList[];
  public static void main(String[] args) {
-     InferenciaTipus<String> ArrayList = new InferenciaTipus<String>();
+     //InferenciaTipus<String> ArrayList = new InferenciaTipus<String>();
        
       
     }
